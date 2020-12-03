@@ -1,2 +1,3 @@
-# blog
-Repository for code thrown up on the the blog
+# hanson.io blog code
+
+Repository for storing project and code thrown up on the http://hanson.io blog.
